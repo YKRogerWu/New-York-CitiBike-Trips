@@ -6,6 +6,7 @@ Web application built by React to showcase bike routes in New York with interact
 ## Frameworks
 - ReactJS
 - JQuery
+- RESTful-API
 
 ## Back-End Construction
 - Node.js (v16.16.0)
