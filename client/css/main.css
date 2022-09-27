@@ -1,0 +1,39 @@
+body {
+   background-color:rgb(254, 248, 239);
+}
+
+#trips-table{
+    margin-top:30px;
+}
+
+#trips-table thead{
+    color: #1D3557;
+    background-color: #A8DADC;
+}
+
+#trips-table tbody{
+    color: #1D3557;
+    background-color: #F1FAEE;
+}
+
+#trips-table tbody:hover {
+    cursor: pointer;
+}
+
+#trips-table tbody tr:hover {
+    background-color: rgb(219, 251, 200);
+}
+
+#leaflet {
+    height: 400px;
+}
+
+.Subscriber {
+    background-color: …;
+    color: …;
+}
+
+.Customer {
+    background-color: …;
+    color: …;
+}
